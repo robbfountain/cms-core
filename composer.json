@@ -1,7 +1,7 @@
 {
   "name": "onethirtyone/cms-core",
   "description": "Core components to CMS",
-  "license": "Commercial",
+  "license": "MIT",
   "authors": [
     {
       "name": "Robb Fountain",
